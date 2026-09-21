@@ -1,2 +1,2 @@
 # This is the config file for developer a"
-timeout = 20
+timeout = 30
